@@ -591,7 +591,7 @@ body {
 
 #reviews {
     background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 255, 255, 0.5), rgba(0, 0, 0, 0.795)), url(../img/peak\ \(6\).jpg);
-    height: 115vh;
+    height: 900px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -690,7 +690,7 @@ body {
 
 #feedback {
     background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.8), rgba(0, 255, 255, 0.5), rgba(0, 0, 0, 0.795)), url(../img/peak\ \(10\).jpg);
-    height: 80vh;
+    height: 500px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1051,7 +1051,7 @@ label {
         padding: 1px;
     }
     #reviews {
-        height: 140vh;
+        height: 900px;
         background-size: cover;
         background-position: center;
         position: relative;
@@ -1137,7 +1137,7 @@ label {
         background: linear-gradient( to right, rgba(218, 165, 32, 0.2), white);
     }
     #feedback {
-        height: 60vh;
+        height: 400px;
     }
     label {
         margin-left: 5vw;
@@ -1248,7 +1248,6 @@ label {
 
 @media only screen and (min-width:650px) {
     #reviews {
-        height: 140vh;
         background-size: cover;
         background-position: center;
         position: relative;
@@ -1322,7 +1321,6 @@ label {
 
 @media only screen and (min-width:820px) {
     #reviews {
-        height: 130vh;
         background-size: cover;
         background-position: center;
         position: relative;
