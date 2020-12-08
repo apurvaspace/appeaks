@@ -1,3 +1,2 @@
 # appeaks
-e-commerce project
-https://apurvaspace.github.io/appeaks/
+e-commerce project @ https://apurvaspace.github.io/appeaks/
